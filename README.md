@@ -27,7 +27,7 @@ This is a Python-based GUI tool (PySide6 + OpenCV) designed to correct keystone 
 
 ---
 
-### Author's Personal Pick
+### Highly Recommand You to read following
 Since you've scrolled down this far, besides writing code, I'd like to use this little space to promote my absolute favorite V-Tuber! 
 If you find this tool has saved you valuable time, I hope you can check out her channel. **Don't forget to subscribe to her: 白星優米 (Umi)**!
 [白星優米 Umi YouTube Channel](https://youtube.com/@umitw46?si=YAS3N6vEymUu1UDW)
@@ -59,7 +59,7 @@ If you find this tool has saved you valuable time, I hope you can check out her 
 
 ---
 
-### 來自作者的私心推薦
+### 私心推薦
 既然你都滑到這裡了，除了寫代碼，我也想藉這個小空間推廣一下我最喜歡的 V-Tuber！
 如果你覺得這個工具幫你省下了寶貴的時間，希望你可以去看看她的頻道，**記得訂閱她：白星優米**！
 [白星優米 YouTube 頻道連結](https://youtube.com/@umitw46?si=YAS3N6vEymUu1UDW)
