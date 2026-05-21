@@ -1,5 +1,9 @@
 # Image Perspective Correction Tool / 圖片梯形矯正與透視處理工具
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+[![macOS Optimized](https://img.shields.io/badge/OS-macOS_Optimized-lightgrey.svg)]()
+
 [English](#english) | [繁體中文](#繁體中文)
 
 ---
